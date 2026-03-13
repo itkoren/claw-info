@@ -1,7 +1,8 @@
 **YouTube**
 ___________
 
-- [Build a Multi-Agent Team with Openclaw (by Clearmud)](https://www.youtube.com/watch?v=WqWMszBB9t0)
+- [The Ultimate Beginner's Guide to OpenClaw (by @MeticsMedia)](https://youtu.be/st534T7-mdE?si=fu_MgkeASii_vdnj)
+- [Build a Multi-Agent Team with OpenClaw (by Clearmud)](https://www.youtube.com/watch?v=WqWMszBB9t0)
 - [How I Built My 10 Agent OpenClaw Team (by 
 The AI Daily Brief: Artificial Intelligence News)](https://www.youtube.com/watch?v=HzVYgpMxMLE)
 - [How to create JOBS for OpenClaw agents (by Brian Casel)](https://www.youtube.com/watch?v=uUN1oy2PRHo)
