@@ -13,6 +13,18 @@ lume run openclaw --clipboard
 lume create openclaw --os macos --ipsw latest --unattended tahoe
 ```
 
+### Save a Golden Image ###
+```
+lume stop openclaw
+lume clone openclaw openclaw-backup
+```
+
+### Reset Anytime
+```
+lume delete openclaw
+lume clone openclaw-backup openclaw
+```
+
 ### OpenClaw ###
 ```
 lume get openclaw
